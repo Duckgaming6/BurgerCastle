@@ -1,0 +1,56 @@
+// Auto-generated code. Do not edit.
+namespace myImages {
+
+    helpers._registerFactory("image", function(name: string) {
+        switch(helpers.stringTrim(name)) {
+            case "image2":
+            case "myImage":return img`
+fffff...fffffff..fff....
+ffffff..fffffff..fffff..
+ff..fff.ff.......ffffff.
+ff...ff.ff.......ff.fff.
+ff...ff.fffffff..ff..ff.
+ff..fff.fffffff..ff..ff.
+ff..fff.ff.......ff..ff.
+ffffff..ff.......fffff..
+fffff...fffffff..ffff...
+fff.....fffffff..ff.....
+........................
+........................
+..................f.....
+......ffff........f.....
+....ffe2fef.ee....ff....
+...ffe2efeeedde.........
+..ff2e2fe4dedde.........
+..f22e2fefdfe4ef........
+.f2ffe2fe4fde4eff.......
+.ffeefefffdf2efff.......
+..feefe2fe4424ff........
+..feeef2f4de24ff........
+..feeef2f44e24fff.......
+...feefefeeefffff.......
+`;
+        }
+        return null;
+    })
+
+    helpers._registerFactory("animation", function(name: string) {
+        switch(helpers.stringTrim(name)) {
+
+        }
+        return null;
+    })
+
+    helpers._registerFactory("song", function(name: string) {
+        switch(helpers.stringTrim(name)) {
+            case "song1":
+            case "mySong":return hex`00780004080200`;
+            case "mySong0":return hex`00780004080700`;
+            case "song2":
+            case "mySong1":return hex`00780004080700`;
+        }
+        return null;
+    })
+
+}
+// Auto-generated code. Do not edit.

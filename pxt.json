@@ -1,0 +1,45 @@
+{
+    "name": "untitled",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "multiplayer": "*",
+        "sprite-scaling": "*",
+        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
+        "radio-broadcast": "*",
+        "corgio": "*",
+        "ArcadeMIDI": "github:unsignedarduino/arcademidi#af121437d59fd6b2cec54501ac437db1eaa766f5",
+        "Achievements": "github:UnsignedArduino/Achievements#a578c77dd75467b9b0b5238a9a31c5fdc427cb9d",
+        "arcade-mini-menu": "github:riknoll/arcade-mini-menu#c8b01b9d47f85a5133c786f1c026b1f376fe4285",
+        "controller": "*",
+        "pxt-button-combos": "github:jwunderl/pxt-button-combos#v0.0.24",
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3",
+        "arcade-split-screen": "github:riknoll/arcade-split-screen#c932ef6b9f21320f2b6307dc01c75bbd8179b278",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "password-save": "github:jacobcarpenter/pxt-password-save#a5d4c0766d1fa5f46428caa6885cccce703dc495",
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#6cfbf925b9a4d5ddf3e1078e6cf6ca6a1aebb301",
+        "arcade-minimap": "github:microsoft/arcade-minimap#v0.6.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.30",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}

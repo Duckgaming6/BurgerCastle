@@ -1,0 +1,30 @@
+{
+    "image2": {
+        "data": "hwQYABgAAAD//////wAAAAAAAAD//////wAAAAD/AAD/AADw/wAAAP/y/w//AADwDwAA8C/v7v7/D/D/DwAA/yLv7u7w////AAAA7+7+7+4A//8PAADwLiLi/v8AAAAAAADw4v//IuL//////wDw/+7+/////////wDw7vT0TuT/AP8A/wAA793f1OT/AP8A/wAA4P795O7/AP8A/wAA3u0uIvL/AP8A/wAA3k3kRPT/AP8A/wAA4O7+//8AAAAAAAAAAPD///8AAAAAAAAAAAD/AP///////wAAAAAAAAD//////wD/DwAAAAD/DwDwDwAADwAAAADw/wDwDwAAAAAAAADw////AAAAAAAAAAAA//8PAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "song1": {
+        "data": "00780004080200",
+        "mimeType": "application/mkcd-song",
+        "displayName": "mySong",
+        "namespace": "mySongs."
+    },
+    "": {
+        "data": "00780004080700",
+        "mimeType": "application/mkcd-song",
+        "displayName": "mySong0",
+        "namespace": "mySongs."
+    },
+    "song2": {
+        "data": "00780004080700",
+        "mimeType": "application/mkcd-song",
+        "displayName": "mySong1",
+        "namespace": "mySongs."
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
